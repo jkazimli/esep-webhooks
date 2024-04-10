@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "baYZ+ZYStmKNu1Uyeqein+9VykZ0hKYUb5srJE4RXo1yNHThB0WpbmeUkQkLeidcbLLKG8oqoFotR8/1e8NAig==",
+  "dgSpecHash": "hbUhft3iqmvccfLXC1Z2Y5FqKogz+Dbnqc5vJCMT2ethAjDEcmgVgvyc5xHD/A7Pr6y4OvFFUSDkmEVXmlKPgg==",
   "success": true,
   "projectFilePath": "/Users/yunuskazimli/Downloads/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/yunuskazimli/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
     "/Users/yunuskazimli/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
-    "/Users/yunuskazimli/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.4/microsoft.netcore.app.runtime.linux-x64.8.0.4.nupkg.sha512",
-    "/Users/yunuskazimli/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.4/microsoft.aspnetcore.app.runtime.linux-x64.8.0.4.nupkg.sha512",
+    "/Users/yunuskazimli/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/yunuskazimli/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.4/microsoft.netcore.app.crossgen2.osx-arm64.8.0.4.nupkg.sha512"
   ],
   "logs": []
